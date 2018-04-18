@@ -1,0 +1,192 @@
+{C:/Users/Daniel/Desktop/fuentes alumnos/bits_shifter.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/bits_shifter.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity two_bits_shifter
+-- Compiling architecture Behavioral of two_bits_shifter
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Daniel\Desktop\fuentes alumnos\test.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MIPs_segmentado
+-- Compiling architecture Behavioral of MIPs_segmentado
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity testbench
+-- Compiling architecture behavior of testbench
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/BReg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/BReg.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity BReg
+-- Compiling architecture Behavioral of BReg
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/test_sencillo_con_NOPs/memoriaRAM_I_ejemplo_nops.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Daniel\Desktop\fuentes alumnos\test_sencillo_con_NOPs\memoriaRAM_I_ejemplo_nops.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memoriaRAM_I
+-- Compiling architecture Behavioral of memoriaRAM_I
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/test_sencillo_con_NOPs/memoriaRAM_ejemplo.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/test_sencillo_con_NOPs/memoriaRAM_ejemplo.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memoriaRAM_D
+-- Compiling architecture Behavioral of memoriaRAM_D
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity testfp
+-- Compiling architecture behavior of testfp
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_WB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_WB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_WB
+-- Compiling architecture Behavioral of Banco_WB
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/mux4_1_32bits.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/mux4_1_32bits.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4_1_32bits
+-- Compiling architecture Behavioral of mux4_1_32bits
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/mux2_1.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/mux2_1.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2_1
+-- Compiling architecture Behavioral of mux2_1
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UA
+-- Compiling architecture Behavioral of UA
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_EX.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_EX.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_EX
+-- Compiling architecture Behavioral of Banco_EX
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_ID.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_ID.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_ID
+-- Compiling architecture Behavioral of Banco_ID
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/fpadd.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/fpadd.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity FPP_ADD_SUB
+-- Compiling architecture Arch of FPP_ADD_SUB
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/Ext_signo.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/Ext_signo.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Ext_signo
+-- Compiling architecture Behavioral of Ext_signo
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/UC_Mips.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/UC_Mips.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UC
+-- Compiling architecture Behavioral of UC
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UD
+-- Compiling architecture Behavioral of UD
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_MEM
+-- Compiling architecture Behavioral of Banco_MEM
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/ALU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/ALU.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture Behavioral of ALU
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2_5bits
+-- Compiling architecture Behavioral of mux2_5bits
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg32
+-- Compiling architecture Behavioral of reg32
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/adder32.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/adder32.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity adder32
+-- Compiling architecture Behavioral of adder32
+
+} {} {}}
