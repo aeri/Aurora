@@ -41,8 +41,8 @@ end component;
      BEGIN
 		   reset <= '1';
 			go <= '0';	
-			A <= x"3e4ccccd";-- 3e4ccccd = 0,2
-			B <= x"3e4ccccd";			
+			A <= x"00000000";-- 3e4ccccd = 0,2
+			B <= x"00000000";			
          wait for CLK_period*10; -- wait until global set/reset completes
 			reset <= '0';
 			go <= '1';

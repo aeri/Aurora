@@ -24,9 +24,9 @@ Vez3M66R73icgd5;^1]n[o0
 !s100 FdnT[E<XL_UiCO?C2]0L[0
 Z9 OP;C;10.4a;61
 32
-Z10 !s110 1523988801
+Z10 !s110 1524172892
 !i10b 1
-Z11 !s108 1523988801.000000
+Z11 !s108 1524172891.000000
 Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/adder32.vhd|
 Z13 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/adder32.vhd|
 !i113 1
@@ -54,7 +54,7 @@ R13
 R14
 R15
 Ealu
-Z16 w1490265945
+Z16 w1490265946
 R1
 R2
 R3
@@ -71,9 +71,9 @@ R9
 32
 R10
 !i10b 1
-R11
-Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/ALU.vhd|
-Z20 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/ALU.vhd|
+Z19 !s108 1524172892.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/ALU.vhd|
+Z21 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/ALU.vhd|
 !i113 1
 R14
 R15
@@ -92,19 +92,19 @@ R9
 32
 R10
 !i10b 1
-R11
 R19
 R20
+R21
 !i113 1
 R14
 R15
 Ebanco_ex
-Z21 w1523894487
+Z22 w1523894488
 R4
 R5
 R6
-Z22 8C:/Users/Daniel/Desktop/fuentes alumnos/Banco_EX.vhd
-Z23 FC:/Users/Daniel/Desktop/fuentes alumnos/Banco_EX.vhd
+Z23 8C:/Users/Daniel/Desktop/fuentes alumnos/Banco_EX.vhd
+Z24 FC:/Users/Daniel/Desktop/fuentes alumnos/Banco_EX.vhd
 l0
 L32
 VcfPnHAQ_H7n0l9<CbhR0l0
@@ -113,9 +113,9 @@ R9
 32
 R10
 !i10b 1
-R11
-Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/Banco_EX.vhd|
-Z25 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/Banco_EX.vhd|
+R19
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/Banco_EX.vhd|
+Z26 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/Banco_EX.vhd|
 !i113 1
 R14
 R15
@@ -131,14 +131,14 @@ R9
 32
 R10
 !i10b 1
-R11
-R24
+R19
 R25
+R26
 !i113 1
 R14
 R15
 Ebanco_id
-Z26 w1490265946
+R16
 R4
 R5
 R6
@@ -150,11 +150,11 @@ VGN8CheDVL7he`UbIi2Wd:1
 !s100 _m=b:l1iQPCbR2C>j9LbV3
 R9
 32
-Z29 !s110 1523988802
+R10
 !i10b 1
-Z30 !s108 1523988802.000000
-Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/Banco_ID.vhd|
-Z32 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/Banco_ID.vhd|
+R19
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/Banco_ID.vhd|
+Z30 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/Banco_ID.vhd|
 !i113 1
 R14
 R15
@@ -168,32 +168,32 @@ VW5?m_b>=NBGb[]3OH>2F01
 !s100 ;RP9P;j3>_]lU`h6Xfm1@3
 R9
 32
-R29
+R10
 !i10b 1
+R19
+R29
 R30
-R31
-R32
 !i113 1
 R14
 R15
 Ebanco_mem
-Z33 w1521060258
+Z31 w1521060258
 R4
 R5
 R6
-Z34 8C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd
-Z35 FC:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd
+Z32 8C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd
+Z33 FC:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd
 l0
 L32
 VPbza`m>gKYKm:i`3?Q2_N0
 !s100 _f]LTOQd[52]VX6RY7hL:0
 R9
 32
-R29
+R10
 !i10b 1
-R30
-Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd|
-Z37 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd|
+R19
+Z34 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd|
+Z35 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd|
 !i113 1
 R14
 R15
@@ -207,32 +207,32 @@ V@14DKN4R5m`n^;_f_[EgC1
 !s100 L3PLMMzSnSf5lMERo4k?l3
 R9
 32
-R29
+R10
 !i10b 1
-R30
-R36
-R37
+R19
+R34
+R35
 !i113 1
 R14
 R15
 Ebanco_wb
-Z38 w1521060257
+R31
 R4
 R5
 R6
-Z39 8C:/Users/Daniel/Desktop/fuentes alumnos/Banco_WB.vhd
-Z40 FC:/Users/Daniel/Desktop/fuentes alumnos/Banco_WB.vhd
+Z36 8C:/Users/Daniel/Desktop/fuentes alumnos/Banco_WB.vhd
+Z37 FC:/Users/Daniel/Desktop/fuentes alumnos/Banco_WB.vhd
 l0
 L32
 VJo9>4U<6m0KNW@UmmklOY2
 !s100 JGb3haQGFV5CHWgzfChMY3
 R9
 32
-R29
+R10
 !i10b 1
-R30
-Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/Banco_WB.vhd|
-Z42 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/Banco_WB.vhd|
+R19
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/Banco_WB.vhd|
+Z39 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/Banco_WB.vhd|
 !i113 1
 R14
 R15
@@ -246,34 +246,34 @@ VjKQ4_CS6D4@Z@GMkAePmJ3
 !s100 ?^XIZeBV;I]WDim1HT2QW1
 R9
 32
-R29
+R10
 !i10b 1
-R30
-R41
-R42
+R19
+R38
+R39
 !i113 1
 R14
 R15
 Ebreg
-Z43 w1521060254
+Z40 w1521060254
 R3
 R2
 R4
 R5
 R6
-Z44 8C:/Users/Daniel/Desktop/fuentes alumnos/BReg.vhd
-Z45 FC:/Users/Daniel/Desktop/fuentes alumnos/BReg.vhd
+Z41 8C:/Users/Daniel/Desktop/fuentes alumnos/BReg.vhd
+Z42 FC:/Users/Daniel/Desktop/fuentes alumnos/BReg.vhd
 l0
 L36
 VVn_dFT2n6?o7C]gJBmjFh1
 !s100 _JHQejW;DO9M]5ihRHD:S1
 R9
 32
-Z46 !s110 1523988803
+Z43 !s110 1524172893
 !i10b 1
-Z47 !s108 1523988803.000000
-Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/BReg.vhd|
-Z49 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/BReg.vhd|
+R19
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/BReg.vhd|
+Z45 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/BReg.vhd|
 !i113 1
 R14
 R15
@@ -289,32 +289,32 @@ VI[Z5If8?9h6=Xi]DkI6@G2
 !s100 g5j38U]=Co;UeF7AK1FOz2
 R9
 32
-R46
+R43
 !i10b 1
-R47
-R48
-R49
+R19
+R44
+R45
 !i113 1
 R14
 R15
 Eext_signo
-Z50 w1490265950
+Z46 w1490265950
 R4
 R5
 R6
-Z51 8C:/Users/Daniel/Desktop/fuentes alumnos/Ext_signo.vhd
-Z52 FC:/Users/Daniel/Desktop/fuentes alumnos/Ext_signo.vhd
+Z47 8C:/Users/Daniel/Desktop/fuentes alumnos/Ext_signo.vhd
+Z48 FC:/Users/Daniel/Desktop/fuentes alumnos/Ext_signo.vhd
 l0
 L32
 VXf93dK=jfGbHU]2Ef7mDW1
 !s100 =jQT7hQEW^Q9VGDz6>Dnd0
 R9
 32
-R46
+R43
 !i10b 1
-R47
-Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/Ext_signo.vhd|
-Z54 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/Ext_signo.vhd|
+Z49 !s108 1524172893.000000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/Ext_signo.vhd|
+Z51 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/Ext_signo.vhd|
 !i113 1
 R14
 R15
@@ -328,33 +328,33 @@ Va5[d?zV7L`XBX<c7AmWfn0
 !s100 LK3IFGmMiXJPmL2zW;mXf2
 R9
 32
-R46
+R43
 !i10b 1
-R47
-R53
-R54
+R49
+R50
+R51
 !i113 1
 R14
 R15
 Efpp_add_sub
-Z55 w1521060290
+Z52 w1521060290
 R1
 R4
 R5
 R6
-Z56 8C:/Users/Daniel/Desktop/fuentes alumnos/fpadd.vhd
-Z57 FC:/Users/Daniel/Desktop/fuentes alumnos/fpadd.vhd
+Z53 8C:/Users/Daniel/Desktop/fuentes alumnos/fpadd.vhd
+Z54 FC:/Users/Daniel/Desktop/fuentes alumnos/fpadd.vhd
 l0
 L23
 Vh6>Y6=15hUbQES8O12`?V2
 !s100 Wih?H:cXCn^nSZbl@A?F01
 R9
 32
-R46
+R43
 !i10b 1
-R47
-Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/fpadd.vhd|
-Z59 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/fpadd.vhd|
+R49
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/fpadd.vhd|
+Z56 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/fpadd.vhd|
 !i113 1
 R14
 R15
@@ -369,34 +369,34 @@ VE5O6d7gKcSo?Uhc]T`Bf13
 !s100 6Ec:Y5>c;W@ADHSn2Wm4i2
 R9
 32
-R46
+R43
 !i10b 1
-R47
-R58
-R59
+R49
+R55
+R56
 !i113 1
 R14
 R15
 Ememoriaram_d
-Z60 w1521060298
+Z57 w1524177805
 R3
 R2
 R4
 R5
 R6
-Z61 8C:/Users/Daniel/Desktop/fuentes alumnos/test_sencillo_con_NOPs/memoriaRAM_ejemplo.vhd
-Z62 FC:/Users/Daniel/Desktop/fuentes alumnos/test_sencillo_con_NOPs/memoriaRAM_ejemplo.vhd
+Z58 8C:/Users/Daniel/Desktop/aoc2/PROVA_7_D.vhd
+Z59 FC:/Users/Daniel/Desktop/aoc2/PROVA_7_D.vhd
 l0
 L33
 VfFlDKazVPSkzX<390lJZJ0
 !s100 mMMNkR4IjQ>dUl6ZdTO3b1
 R9
 32
-Z63 !s110 1523990115
+Z60 !s110 1524177881
 !i10b 1
-Z64 !s108 1523990114.000000
-Z65 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/test_sencillo_con_NOPs/memoriaRAM_ejemplo.vhd|
-Z66 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/test_sencillo_con_NOPs/memoriaRAM_ejemplo.vhd|
+Z61 !s108 1524177881.000000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/aoc2/PROVA_7_D.vhd|
+Z63 !s107 C:/Users/Daniel/Desktop/aoc2/PROVA_7_D.vhd|
 !i113 1
 R14
 R15
@@ -408,38 +408,38 @@ R5
 DEx4 work 12 memoriaram_d 0 22 fFlDKazVPSkzX<390lJZJ0
 l61
 L42
-Vll>UC=Q<Z4<oC`Q^H__>F0
-!s100 ^6De4i2hIa`^99fm5e8;z0
+V;=0e^=Sa;>=97J_dPY;E32
+!s100 ^J?M01?XVl8IAc:RaQ=W82
 R9
 32
-R63
+R60
 !i10b 1
-R64
-R65
-R66
+R61
+R62
+R63
 !i113 1
 R14
 R15
 Ememoriaram_i
-Z67 w1523991280
+Z64 w1524178390
 R3
 R2
 R4
 R5
 R6
-Z68 8C:\Users\Daniel\Desktop\fuentes alumnos\test_sencillo_con_NOPs\memoriaRAM_I_ejemplo_nops.vhd
-Z69 FC:\Users\Daniel\Desktop\fuentes alumnos\test_sencillo_con_NOPs\memoriaRAM_I_ejemplo_nops.vhd
+Z65 8C:\Users\Daniel\Desktop\aoc2\PROVA_7_I.vhd
+Z66 FC:\Users\Daniel\Desktop\aoc2\PROVA_7_I.vhd
 l0
 L32
 VYbZkhW9WoEbhnN`5@J6=`0
 !s100 Q@4V61X_V]:iAW=8FaYo:2
 R9
 32
-Z70 !s110 1523991285
+Z67 !s110 1524178395
 !i10b 1
-Z71 !s108 1523991285.000000
-Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Daniel\Desktop\fuentes alumnos\test_sencillo_con_NOPs\memoriaRAM_I_ejemplo_nops.vhd|
-Z73 !s107 C:\Users\Daniel\Desktop\fuentes alumnos\test_sencillo_con_NOPs\memoriaRAM_I_ejemplo_nops.vhd|
+Z68 !s108 1524178395.000000
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Daniel\Desktop\aoc2\PROVA_7_I.vhd|
+Z70 !s107 C:\Users\Daniel\Desktop\aoc2\PROVA_7_I.vhd|
 !i113 1
 R14
 R15
@@ -448,39 +448,39 @@ R3
 R2
 R4
 R5
-Z74 DEx4 work 12 memoriaram_i 0 22 YbZkhW9WoEbhnN`5@J6=`0
+Z71 DEx4 work 12 memoriaram_i 0 22 YbZkhW9WoEbhnN`5@J6=`0
 l60
 L41
-V^fZCJ70_3k69QC:o2>?>>1
-!s100 aIZB9_M4F9h]DQiV_0iTJ3
+Vc7O^X<55i3lPPPi`z_6^g1
+!s100 egQi0W2R=k6ngE614]2hn2
 R9
 32
-R70
+R67
 !i10b 1
-R71
-R72
-R73
+R68
+R69
+R70
 !i113 1
 R14
 R15
 Emips_segmentado
-Z75 w1523988010
+Z72 w1523988012
 R4
 R5
 R6
-Z76 8C:\Users\Daniel\Desktop\fuentes alumnos\test.vhd
-Z77 FC:\Users\Daniel\Desktop\fuentes alumnos\test.vhd
+Z73 8C:/Users/Daniel/Desktop/fuentes alumnos/Mips_segmentado_2018.vhd
+Z74 FC:/Users/Daniel/Desktop/fuentes alumnos/Mips_segmentado_2018.vhd
 l0
 L17
 Ve<S3UnMGALX==76So=gmA3
 !s100 DJcDbJgiN<BoEZ@019[2E2
 R9
 32
-Z78 !s110 1523988806
+Z75 !s110 1524172894
 !i10b 1
-Z79 !s108 1523988806.000000
-Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\Daniel\Desktop\fuentes alumnos\test.vhd|
-Z81 !s107 C:\Users\Daniel\Desktop\fuentes alumnos\test.vhd|
+Z76 !s108 1524172894.000000
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/Mips_segmentado_2018.vhd|
+Z78 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/Mips_segmentado_2018.vhd|
 !i113 1
 R14
 R15
@@ -494,32 +494,32 @@ VHh`GWX]=ji_KQmJzKb_b82
 !s100 Sdm1bZmLHP=joOIIDJmKV2
 R9
 32
-R78
+R75
 !i10b 1
-R79
-R80
-R81
+R76
+R77
+R78
 !i113 1
 R14
 R15
 Emux2_1
-Z82 w1490265952
+Z79 w1490265952
 R4
 R5
 R6
-Z83 8C:/Users/Daniel/Desktop/fuentes alumnos/mux2_1.vhd
-Z84 FC:/Users/Daniel/Desktop/fuentes alumnos/mux2_1.vhd
+Z80 8C:/Users/Daniel/Desktop/fuentes alumnos/mux2_1.vhd
+Z81 FC:/Users/Daniel/Desktop/fuentes alumnos/mux2_1.vhd
 l0
 L32
 V3ffz>_Pd`0UGm<RQ39N2<1
 !s100 [VRg3F0=o?Z:]Y[CCZJje0
 R9
 32
-Z85 !s110 1523988804
+R43
 !i10b 1
-Z86 !s108 1523988804.000000
-Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/mux2_1.vhd|
-Z88 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/mux2_1.vhd|
+R49
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/mux2_1.vhd|
+Z83 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/mux2_1.vhd|
 !i113 1
 R14
 R15
@@ -533,32 +533,32 @@ VmO@O?FljQV@CmH;ACBYgj1
 !s100 zIQT7B^e_I4Qli6JQET>o2
 R9
 32
-R85
+R43
 !i10b 1
-R86
-R87
-R88
+R49
+R82
+R83
 !i113 1
 R14
 R15
 Emux2_5bits
-Z89 w1490306694
+Z84 w1490306694
 R4
 R5
 R6
-Z90 8C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd
-Z91 FC:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd
+Z85 8C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd
+Z86 FC:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd
 l0
 L32
 VhCRR<1Cbl2c7k1]J0>8dM2
 !s100 GnzQIA<O?`7V;D;ZbXOiA0
 R9
 32
-R85
+R43
 !i10b 1
-R86
-Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd|
-Z93 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd|
+R49
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd|
+Z88 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd|
 !i113 1
 R14
 R15
@@ -572,32 +572,32 @@ V[I3_:5o?GGJmF][39YDQA1
 !s100 =@Dj[OG[:JJ:5PSjamb5A3
 R9
 32
-R85
+R43
 !i10b 1
-R86
-R92
-R93
+R49
+R87
+R88
 !i113 1
 R14
 R15
 Emux4_1_32bits
-Z94 w1521060283
+Z89 w1521060284
 R4
 R5
 R6
-Z95 8C:/Users/Daniel/Desktop/fuentes alumnos/mux4_1_32bits.vhd
-Z96 FC:/Users/Daniel/Desktop/fuentes alumnos/mux4_1_32bits.vhd
+Z90 8C:/Users/Daniel/Desktop/fuentes alumnos/mux4_1_32bits.vhd
+Z91 FC:/Users/Daniel/Desktop/fuentes alumnos/mux4_1_32bits.vhd
 l0
 L4
 V6d^O7`FCgJG1BW>[2WP>10
 !s100 eC]>Q3Z[89zBLkPeQ2Xj<1
 R9
 32
-R85
+R43
 !i10b 1
-R86
-Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/mux4_1_32bits.vhd|
-Z98 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/mux4_1_32bits.vhd|
+R49
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/mux4_1_32bits.vhd|
+Z93 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/mux4_1_32bits.vhd|
 !i113 1
 R14
 R15
@@ -611,32 +611,32 @@ VPIWRB3OE3iGmK8J?U0zQ=0
 !s100 8bbIj9`VbVePPKl6mXQcJ1
 R9
 32
-R85
+R43
 !i10b 1
-R86
-R97
-R98
+R49
+R92
+R93
 !i113 1
 R14
 R15
 Ereg32
-Z99 w1490265954
+Z94 w1490265954
 R4
 R5
 R6
-Z100 8C:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd
-Z101 FC:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd
+Z95 8C:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd
+Z96 FC:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd
 l0
 L32
 Vcf]H1V:29^h=K6L<M069Z0
 !s100 <HMai90R3mC^aKcUA9KWa3
 R9
 32
-Z102 !s110 1523988805
+R43
 !i10b 1
-R86
-Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd|
-Z104 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd|
+R49
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd|
+Z98 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd|
 !i113 1
 R14
 R15
@@ -650,33 +650,33 @@ VJ[W1HBgTgP5n;DfYZgH?h1
 !s100 2oc5;CJQla>1DYNY;i5db3
 R9
 32
-R102
+R43
 !i10b 1
-R86
-R103
-R104
+R49
+R97
+R98
 !i113 1
 R14
 R15
 Etestbench
-R99
+R94
 R1
 R4
 R5
 R6
-Z105 8C:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd
-Z106 FC:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd
+Z99 8C:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd
+Z100 FC:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd
 l0
 L7
 V?RXCn9@FP9m8X1o_bn1`P3
 !s100 E5:`7ea_eNYOUE@_LK2MY1
 R9
 32
-R102
+R43
 !i10b 1
-Z107 !s108 1523988805.000000
-Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd|
-Z109 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd|
+R49
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd|
+Z102 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd|
 !i113 1
 R14
 R15
@@ -691,33 +691,33 @@ VcF7aHoN>fY_5Nnm_0UPLk2
 !s100 H`9Dmn2O>^WRDfKCAVlQB0
 R9
 32
-R102
+R43
 !i10b 1
-R107
-R108
-R109
+R49
+R101
+R102
 !i113 1
 R14
 R15
 Etestfp
-Z110 w1521060272
+Z103 w1524075784
 R1
 R4
 R5
 R6
-Z111 8C:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd
-Z112 FC:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd
+Z104 8C:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd
+Z105 FC:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd
 l0
 L7
 VkPRY17F7CLfD]Y=g;>N1R0
 !s100 PjSclHW3[WbHM@zL9^C173
 R9
 32
-R10
+Z106 !s110 1524172891
 !i10b 1
-Z113 !s108 1523988800.000000
-Z114 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd|
-Z115 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd|
+R11
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd|
+Z108 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd|
 !i113 1
 R14
 R15
@@ -728,36 +728,36 @@ R5
 DEx4 work 6 testfp 0 22 kPRY17F7CLfD]Y=g;>N1R0
 l26
 L10
-V1aM^H8ABGH18m0hC0BU=93
-!s100 ?W]6=YLdboQaldF26<YQM0
+ViCeVK79i_:[6neOEb3M_>1
+!s100 1R7_G`HFn86[03[[:bcSa1
 R9
 32
-R10
+R106
 !i10b 1
-R113
-R114
-R115
+R11
+R107
+R108
 !i113 1
 R14
 R15
 Etwo_bits_shifter
-Z116 w1490265949
+R46
 R4
 R5
 R6
-Z117 8C:/Users/Daniel/Desktop/fuentes alumnos/bits_shifter.vhd
-Z118 FC:/Users/Daniel/Desktop/fuentes alumnos/bits_shifter.vhd
+Z109 8C:/Users/Daniel/Desktop/fuentes alumnos/bits_shifter.vhd
+Z110 FC:/Users/Daniel/Desktop/fuentes alumnos/bits_shifter.vhd
 l0
 L32
 V>``KTYRlmPk@4izOeR>SC2
 !s100 deJGV>HE6>8?]PdW4eZi]0
 R9
 32
-R46
+R10
 !i10b 1
-R30
-Z119 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/bits_shifter.vhd|
-Z120 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/bits_shifter.vhd|
+R19
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/bits_shifter.vhd|
+Z112 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/bits_shifter.vhd|
 !i113 1
 R14
 R15
@@ -771,32 +771,32 @@ Vbj_^QdRmenNNW7b;[Wll]1
 !s100 i;0b?lmD0hmf`Rg0aMFK72
 R9
 32
-R46
+R10
 !i10b 1
-R30
-R119
-R120
+R19
+R111
+R112
 !i113 1
 R14
 R15
 Eua
-Z121 w1523896058
+Z113 w1523896060
 R4
 R5
 R6
-Z122 8C:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd
-Z123 FC:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd
+Z114 8C:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd
+Z115 FC:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd
 l0
 L14
 VV_z4L`O58ZG;X[69LGL4d2
 !s100 =56gT7ZTNW1WhkV52E;]M3
 R9
 32
-R102
+R75
 !i10b 1
-R107
-Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd|
-Z125 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd|
+R76
+Z116 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd|
+Z117 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd|
 !i113 1
 R14
 R15
@@ -810,32 +810,32 @@ V]3V8eMhM6oN>]oPKWEHQb1
 !s100 j<][[^lTR23Ej0E[8JMM^2
 R9
 32
-R102
+R75
 !i10b 1
-R107
-R124
-R125
+R76
+R116
+R117
 !i113 1
 R14
 R15
 Euc
-Z126 w1523696102
+Z118 w1523696104
 R4
 R5
 R6
-Z127 8C:/Users/Daniel/Desktop/fuentes alumnos/UC_Mips.vhd
-Z128 FC:/Users/Daniel/Desktop/fuentes alumnos/UC_Mips.vhd
+Z119 8C:/Users/Daniel/Desktop/fuentes alumnos/UC_Mips.vhd
+Z120 FC:/Users/Daniel/Desktop/fuentes alumnos/UC_Mips.vhd
 l0
 L32
 V`lbSBnLNWE`^`bZQ9KI6Z0
 !s100 F^SKg:TNDPQB_ZQE2:Xg]3
 R9
 32
-R102
+R75
 !i10b 1
-R107
-Z129 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/UC_Mips.vhd|
-Z130 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/UC_Mips.vhd|
+R76
+Z121 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/UC_Mips.vhd|
+Z122 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/UC_Mips.vhd|
 !i113 1
 R14
 R15
@@ -849,32 +849,32 @@ VCz@mz`4m8m72f8z:d3M]F3
 !s100 fObeAL8V[TU>kkl0>h64A3
 R9
 32
-R102
+R75
 !i10b 1
-R107
-R129
-R130
+R76
+R121
+R122
 !i113 1
 R14
 R15
 Eud
-Z131 w1523988998
+Z123 w1523989000
 R4
 R5
 R6
-Z132 8C:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd
-Z133 FC:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd
+Z124 8C:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd
+Z125 FC:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd
 l0
 L4
 VlQh_Z`iUfm27C0k[DcC1P2
 !s100 1B9;<gCUf@;k3zBCj5l2J2
 R9
 32
-Z134 !s110 1523989001
+R75
 !i10b 1
-Z135 !s108 1523989001.000000
-Z136 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd|
-Z137 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd|
+R76
+Z126 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd|
+Z127 !s107 C:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd|
 !i113 1
 R14
 R15
@@ -888,11 +888,11 @@ Vid`2To>F01Oj;h3^D=a2B0
 !s100 GFi6PcbLNQfJmMiZ9Dnm@3
 R9
 32
-R134
+R75
 !i10b 1
-R135
-R136
-R137
+R76
+R126
+R127
 !i113 1
 R14
 R15

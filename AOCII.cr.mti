@@ -6,14 +6,6 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity two_bits_shifter
 -- Compiling architecture Behavioral of two_bits_shifter
 
-} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/test.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Daniel\Desktop\fuentes alumnos\test.vhd}
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity MIPs_segmentado
--- Compiling architecture Behavioral of MIPs_segmentado
-
 } {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/testbench_Mips.vhd}
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
@@ -32,26 +24,6 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading package STD_LOGIC_UNSIGNED
 -- Compiling entity BReg
 -- Compiling architecture Behavioral of BReg
-
-} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/test_sencillo_con_NOPs/memoriaRAM_I_ejemplo_nops.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Daniel\Desktop\fuentes alumnos\test_sencillo_con_NOPs\memoriaRAM_I_ejemplo_nops.vhd}
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package std_logic_arith
--- Loading package STD_LOGIC_UNSIGNED
--- Compiling entity memoriaRAM_I
--- Compiling architecture Behavioral of memoriaRAM_I
-
-} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/test_sencillo_con_NOPs/memoriaRAM_ejemplo.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/test_sencillo_con_NOPs/memoriaRAM_ejemplo.vhd}
-Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Loading package std_logic_arith
--- Loading package STD_LOGIC_UNSIGNED
--- Compiling entity memoriaRAM_D
--- Compiling architecture Behavioral of memoriaRAM_D
 
 } {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/add_Fp_trst.vhd}
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -85,6 +57,16 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading package std_logic_1164
 -- Compiling entity mux2_1
 -- Compiling architecture Behavioral of mux2_1
+
+} {} {}} C:/Users/Daniel/Desktop/aoc2/PROVA_7_D.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/Daniel/Desktop/aoc2/PROVA_7_D.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memoriaRAM_D
+-- Compiling architecture Behavioral of memoriaRAM_D
 
 } {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/UA.vhd}
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -135,6 +117,14 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity UC
 -- Compiling architecture Behavioral of UC
 
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_MEM
+-- Compiling architecture Behavioral of Banco_MEM
+
 } {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/UD.vhd}
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
@@ -143,13 +133,21 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity UD
 -- Compiling architecture Behavioral of UD
 
-} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/Banco_MEM.vhd}
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/Mips_segmentado_2018.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/Mips_segmentado_2018.vhd}
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity Banco_MEM
--- Compiling architecture Behavioral of Banco_MEM
+-- Compiling entity MIPs_segmentado
+-- Compiling architecture Behavioral of MIPs_segmentado
+
+} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2_5bits
+-- Compiling architecture Behavioral of mux2_5bits
 
 } {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/ALU.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/ALU.vhd}
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
@@ -162,13 +160,15 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Compiling entity ALU
 -- Compiling architecture Behavioral of ALU
 
-} {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/mux2_5bits.vhd}
+} {} {}} C:/Users/Daniel/Desktop/aoc2/PROVA_7_I.vhd {1 {vcom -work work -2002 -explicit -stats=none {C:\Users\Daniel\Desktop\aoc2\PROVA_7_I.vhd}
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity mux2_5bits
--- Compiling architecture Behavioral of mux2_5bits
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memoriaRAM_I
+-- Compiling architecture Behavioral of memoriaRAM_I
 
 } {} {}} {C:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Daniel/Desktop/fuentes alumnos/reg32.vhd}
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
